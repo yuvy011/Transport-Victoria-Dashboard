@@ -1,2 +1,4 @@
 # Transport-Victoria-Dashboard
-To analyse the operational structure of Victoria's metropolitan train network using scheduled public transport data, focusing on service frequency, routes, stations, operating periods, and passenger movement patterns. 
+An interactive Power BI data analytics project exploring passenger movement and scheduled public transport services across Victoria.
+
+The project combines passenger movement data with GTFS scheduled transport data to analyse demand patterns, service frequency, routes, stations, operating periods, and transport network activity.
