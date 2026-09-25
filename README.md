@@ -88,13 +88,11 @@ The GTFS data is structured across multiple related tables rather than being pro
 Key tables used in the Power BI model include:
 
 Fact_PassengerCounts
-Fact_StationPatronage
-Fact_MonthlyPatronage
+Fact_StopTimes
 
 Dim_Routes
 Dim_Trips
 Dim_Stops
-Fact_StopTimes
 Dim_Calendar
 Dim_CalendarDates
 Dim_Date
