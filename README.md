@@ -1,4 +1,4 @@
-# Transport-Victoria-Dashboard
+# Public-Transport-Victoria-Dashboard
 An interactive Power BI data analytics project exploring passenger movement and scheduled public transport services across Victoria.
 
 The project combines passenger movement data with GTFS scheduled transport data to analyse demand patterns, service frequency, routes, stations, operating periods, and transport network activity.
@@ -70,6 +70,10 @@ The main goals of this project were to:
 ## Data
 
 The project uses publicly available Victorian public transport and GTFS data.
+
+https://opendata.transport.vic.gov.au/dataset/monthly-average-patronage-by-day-type-and-by-mode
+https://opendata.transport.vic.gov.au/dataset/gtfs-realtime
+https://opendata.transport.vic.gov.au/dataset/annual-regional-train-station-patronage-station-entries
 
 The datasets contain information relating to:
 
